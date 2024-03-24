@@ -52,7 +52,7 @@ System Cpu Util Task Test
 System Memory Util Task Test
 ![Unit_Test_SystemMemUtilTaskTest.png](Unit_Test_SystemMemUtilTaskTest.png)
 
-### Integration Tests Executed
+### Integration Tests Executed-
 
 NOTE: TA's will execute most of your integration tests using their own environment, with
 some exceptions (such as your cloud connectivity tests). In such cases, they'll review
