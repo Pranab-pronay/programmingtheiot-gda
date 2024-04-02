@@ -67,7 +67,7 @@ public class GatewayDeviceApp
 			// ignore
 		}
 		
-		gwApp.stopApp(0);
+		//gwApp.stopApp(0);
 	}
 	
 	
