@@ -18,7 +18,6 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 
 import programmingtheiot.gda.app.GatewayDeviceApp;
-import static org.junit.Assert.assertTrue;
 
 /**
  * This test case class contains very basic integration tests for
@@ -98,14 +97,6 @@ public class GatewayDeviceAppTest
 		}
 		
 		this.gda.stopApp(0);
-	}
-	@Test
-	public void testSomeFeatureThatShouldFail() {
-		// Assume some condition that should be true, but we know it's false
-		boolean condition = false;
-
-		// Assert that the condition is true (which we know it's not)
-		assertTrue("The condition should be true, but it's false", condition);
 	}
 	
 }
