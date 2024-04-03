@@ -25,7 +25,7 @@ public class GatewayDeviceApp
 	private static final Logger _Logger =
 		Logger.getLogger(GatewayDeviceApp.class.getName());
 	
-	public static final long DEFAULT_TEST_RUNTIME = 1500000L; // 5 minutes in milliseconds
+	public static final long DEFAULT_TEST_RUNTIME = 300000L; // 5 minutes in milliseconds
 	
 	// private var's
 	private SystemPerformanceManager sysPerfMgr = null;
